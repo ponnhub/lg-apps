@@ -1,0 +1,9 @@
+{
+  "id": "com.airstaffcommandoffice.lgapp.service",
+  "description": "HelloWorld Service",
+  "services": [
+    {
+      "name": "com.airstaffcommandoffice.lgapp.service"
+    }
+  ]
+}

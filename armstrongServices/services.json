@@ -1,0 +1,10 @@
+{
+  "id": "com.airstaffcommandoffice.armstrongapp.service",
+  "description": "HelloWorld Service",
+  "services": [
+    {
+      "name": "com.airstaffcommandoffice.armstrongapp.service",
+      "description": "Sample helloworld service"
+    }
+  ]
+}

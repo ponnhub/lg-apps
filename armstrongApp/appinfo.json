@@ -1,0 +1,13 @@
+{
+  "id": "com.airstaffcommandoffice.armstrongapp",
+  "version": "1.0.0",
+  "vendor": "สน.เสธ.ทอ.",
+  "type": "web",
+  "main": "index.html",
+  "title": "ARMSTRONG APP",
+  "icon": "icon.png",
+  "requiredPermissions": [
+    "time.query",
+    "activity.operation"
+  ]
+}

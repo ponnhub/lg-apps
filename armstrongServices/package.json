@@ -1,0 +1,15 @@
+{
+  "name": "com.airstaffcommandoffice.armstrongapp.service",
+  "version": "1.0.0",
+  "description": "Helloworld service",
+  "main": "helloworld_webos_service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "luxon": "^2.3.1",
+    "md5": "^2.3.0"
+  }
+}
